@@ -1,0 +1,2 @@
+/usr/local/google_appengine
+import gaecustomize; gaecustomize.fix_sys_path()
