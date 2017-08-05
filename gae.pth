@@ -1,2 +1,3 @@
-/usr/local/google_appengine
-import gaecustomize; gaecustomize.fix_sys_path()
+${apparent_sdk_dir}/platform/google_appengine
+import dev_appserver; dev_appserver.fix_sys_path()
+
